@@ -1,2 +1,0 @@
-# dalice
-html practice
